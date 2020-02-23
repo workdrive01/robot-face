@@ -2,7 +2,7 @@
   "name": "monsters-rolodex",
   "version": "0.1.0",
   "private": true,
-  "hompage": "https://workdrive01.github.io/robot-face",
+  "homepage": "https://workdrive01.github.io/robot-face",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
